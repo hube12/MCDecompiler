@@ -2570,7 +2570,7 @@ net/minecraft/src/ClsBwtBcabmrn$a
 net/minecraft/src/ClsBwuBfgydld
 net/minecraft/src/ClsBwvGgjckcc
 net/minecraft/src/ClsBwvGgjckcc$a
-net/minecraft/src/ClsBwwGswsvbr
+net/minecraft/world/gen/structure/StructureStrongholdPieces
 net/minecraft/src/ClsBwwGswsvbr$1
 net/minecraft/src/ClsBwwGswsvbr$2
 net/minecraft/src/ClsBwwGswsvbr$3
@@ -3385,7 +3385,7 @@ net/minecraft/src/ClsCqzEwmrsyb$a
 net/minecraft/src/ClsCraGrerbur
 net/minecraft/src/ClsCraGrerbur$1
 net/minecraft/src/ClsCrbDiewhyb
-net/minecraft/src/ClsCrcEpqddig
+net/minecraft/client/network/NetHandlerPlayClient
 net/minecraft/src/ClsCrcEpqddig$1
 net/minecraft/src/ClsCrcEpqddig$2
 net/minecraft/src/ClsCrdBoccwsp
