@@ -692,7 +692,7 @@ net/minecraft/src/ClsRjEmdouxu
 net/minecraft/src/ClsRkEogzgkw
 net/minecraft/src/ClsRlGjrwyhh
 net/minecraft/src/ClsRmExbtecj
-net/minecraft/src/ClsRnCyvomtd
+net/minecraft/command/server/CommandScoreboard
 net/minecraft/src/ClsRoBlyiguh
 net/minecraft/src/ClsRpEpdqicm
 net/minecraft/src/ClsRpEpdqicm$a
@@ -3554,7 +3554,7 @@ net/minecraft/src/ClsCtzGrreiyq$w
 net/minecraft/src/ClsCtzGrreiyq$x
 net/minecraft/src/ClsCtzGrreiyq$y
 net/minecraft/src/IfCuaFwpsrwp
-net/minecraft/src/ClsCubCtbakxx
+net/minecraft/client/renderer/ItemRenderer
 net/minecraft/src/ClsCubCtbakxx$1
 net/minecraft/src/ClsCucEnaotzr
 net/minecraft/client/renderer/RenderGlobal
@@ -3849,7 +3849,7 @@ net/minecraft/client/resources/ThreadImageDownload$1
 net/minecraft/src/ClsDdcCcgkfto
 net/minecraft/src/ClsDddEhdumfa
 net/minecraft/src/ClsDdeCvnegvl
-net/minecraft/src/ClsDdfCrmfnbw
+net/minecraft/client/renderer/texture/TextureUtil
 net/minecraft/src/ClsDdfCrmfnbw$1
 net/minecraft/src/ClsDdfCrmfnbw$a
 net/minecraft/src/ClsDdfCrmfnbw$b
