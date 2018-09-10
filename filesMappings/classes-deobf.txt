@@ -376,7 +376,7 @@ net/minecraft/src/ClsIkEyesdis
 net/minecraft/src/ClsIlHakoow
 net/minecraft/src/ClsIlHakoow$a
 net/minecraft/src/ClsImCplmsmx
-net/minecraft/src/ClsInGseojfg
+net/minecraft/util/text/TextComponentScore
 net/minecraft/src/ClsIoFpryrff
 net/minecraft/src/ClsIpFxporgp
 net/minecraft/src/ClsIpFxporgp$1
@@ -638,7 +638,7 @@ net/minecraft/src/ClsPrBslojjy$a
 net/minecraft/src/ClsPsQlhfkk
 net/minecraft/util/Tickable
 net/minecraft/src/ClsPuEfatvke
-net/minecraft/src/ClsPvCwhhjbh
+net/minecraft/command/CommandDebug
 net/minecraft/src/ClsPxEfrykbi
 net/minecraft/src/ClsPxEfrykbi$1
 net/minecraft/src/ClsPxEfrykbi$CommandAdvancement
@@ -656,7 +656,7 @@ net/minecraft/src/ClsQdJzbodl$b
 net/minecraft/src/ClsQeBhjwvwd
 net/minecraft/src/ClsQeBhjwvwd$a
 net/minecraft/src/ClsQfCzvkhhh
-net/minecraft/src/ClsQgRerpkx
+net/minecraft/command/CommandDebug
 net/minecraft/src/ClsQhEeuunpa
 net/minecraft/src/ClsQiBltuoky
 net/minecraft/src/ClsQjJshsvx
@@ -1384,7 +1384,7 @@ net/minecraft/entity/monster/ZombiePigman
 net/minecraft/entity/monster/ZombiePigman$a
 net/minecraft/entity/monster/ZombiePigman$b
 net/minecraft/src/IfAniByaqgbg
-net/minecraft/src/ClsAnjXnremw
+net/minecraft/entity/SharedMonsterAttributes
 net/minecraft/entity/monster/Shulker
 net/minecraft/entity/monster/Shulker$1
 net/minecraft/entity/monster/Shulker$a
@@ -3640,7 +3640,7 @@ net/minecraft/src/ClsCvxEgskmwa
 net/minecraft/src/ClsCvyEfotoen
 net/minecraft/src/ClsCvzFswlwln
 net/minecraft/src/ClsCwaFdtiowx
-net/minecraft/src/ClsCwbFgyfvnp
+net/minecraft/client/renderer/tileentityTileEntityChestRenderer
 net/minecraft/src/ClsCwcCjkjssu
 net/minecraft/src/ClsCwcCjkjssu$a
 net/minecraft/src/ClsCwcCjkjssu$b
