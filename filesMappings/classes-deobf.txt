@@ -662,7 +662,7 @@ net/minecraft/src/ClsQiBltuoky
 net/minecraft/src/ClsQjJshsvx
 net/minecraft/src/ClsQkGgcdaa
 net/minecraft/src/ClsQlGosbdmw
-net/minecraft/command/CommandBase
+net/minecraft/command/CommandExecute
 net/minecraft/src/ClsQmEstihhr$a
 net/minecraft/src/ClsQnFjrtnjr
 net/minecraft/src/ClsQnFjrtnjr$a
@@ -692,7 +692,7 @@ net/minecraft/src/ClsRjEmdouxu
 net/minecraft/src/ClsRkEogzgkw
 net/minecraft/src/ClsRlGjrwyhh
 net/minecraft/src/ClsRmExbtecj
-net/minecraft/command/server/CommandScoreboard
+net/minecraft/server/command/CommandScoreboard
 net/minecraft/src/ClsRoBlyiguh
 net/minecraft/src/ClsRpEpdqicm
 net/minecraft/src/ClsRpEpdqicm$a
@@ -713,13 +713,13 @@ net/minecraft/src/ClsSaDinhymk
 net/minecraft/src/ClsSbBumtagz
 net/minecraft/src/ClsScEpfuwmz
 net/minecraft/src/ClsSdCdpkebg
-net/minecraft/src/ClsSeEgpfann
-net/minecraft/src/ClsSfEctfaws
-net/minecraft/src/ClsSgDumscjg
+net/minecraft/command/CommandWeather
+net/minecraft/server/command/CommandWhitelist
+net/minecraft/server/command/ArgumentWorldBorder
 net/minecraft/src/ClsShBsuozsz
 net/minecraft/src/ClsShBsuozsz$1
 net/minecraft/src/IfSiDixyhoe
-net/minecraft/src/ClsSjFxvhwsc
+net/minecraft/server/command/CommandDataMerge
 net/minecraft/src/ClsSjFxvhwsc$a
 net/minecraft/src/ClsSkExmpzla
 net/minecraft/src/ClsSkExmpzla$1
