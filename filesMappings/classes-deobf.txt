@@ -662,7 +662,7 @@ net/minecraft/src/ClsQiBltuoky
 net/minecraft/src/ClsQjJshsvx
 net/minecraft/src/ClsQkGgcdaa
 net/minecraft/src/ClsQlGosbdmw
-net/minecraft/command:CommandBase
+net/minecraft/command/CommandBase
 net/minecraft/src/ClsQmEstihhr$a
 net/minecraft/src/ClsQnFjrtnjr
 net/minecraft/src/ClsQnFjrtnjr$a
@@ -811,7 +811,7 @@ net/minecraft/src/ClsVlDjzisgx$a
 net/minecraft/src/ClsVlDjzisgx$b
 net/minecraft/src/ClsVmElqzsjt
 net/minecraft/src/ClsVnBgafgbm
-net/minecraft/src/ClsVoBamtwqv
+net/minecraft/server/management/PreYggdrasilConverter
 net/minecraft/src/ClsVoBamtwqv$1
 net/minecraft/src/ClsVoBamtwqv$2
 net/minecraft/src/ClsVoBamtwqv$3
@@ -2512,7 +2512,7 @@ net/minecraft/src/ClsBwoCjlxxcs
 net/minecraft/src/ClsBwoCjlxxcs$a
 net/minecraft/src/ClsBwoCjlxxcs$b
 net/minecraft/src/ClsBwoCjlxxcs$c
-net/minecraft/world\gen\structure\StructureMineshaftPieces
+net/minecraft/world/gen/structure/StructureMineshaftPieces
 net/minecraft/src/ClsBwpFzdfpys$1
 net/minecraft/src/ClsBwpFzdfpys$a
 net/minecraft/src/ClsBwpFzdfpys$b
