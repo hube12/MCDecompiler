@@ -378,7 +378,7 @@ net/minecraft/src/ClsIlHakoow$a
 net/minecraft/src/ClsImCplmsmx
 net/minecraft/util/text/TextComponentScore
 net/minecraft/src/ClsIoFpryrff
-net/minecraft/src/ClsIpFxporgp
+net/minecraft/util/text/Style
 net/minecraft/src/ClsIpFxporgp$1
 net/minecraft/src/ClsIpFxporgp$a
 net/minecraft/src/ClsIqGkkoxjv
@@ -626,7 +626,7 @@ net/minecraft/src/ClsPhBhojhso
 net/minecraft/src/ClsPjDyualah
 net/minecraft/src/ClsPkEwxmhed
 net/minecraft/src/ClsPlBzkkjrp
-net/minecraft/src/ClsPmFmscfvx
+net/minecraft/advancements/PlayerAdvancements
 net/minecraft/src/ClsPmFmscfvx$1
 net/minecraft/src/ClsPnFmkkyzx
 net/minecraft/src/ClsPoCmduyev
@@ -2232,7 +2232,7 @@ net/minecraft/src/ClsBnmFhbmxnu
 net/minecraft/src/IfBnnKpqvhh
 net/minecraft/src/IfBnoGhrlmss
 net/minecraft/src/ClsBnpGdjoswy
-net/minecraft/src/ClsBnqEaagmio
+net/minecraft/world/chunk/ChunkOrderOpenHashSet
 net/minecraft/src/ClsBnrCpzfjko
 net/minecraft/src/ClsBnsGjkdokl
 net/minecraft/src/ClsBnsGjkdokl$1
@@ -3460,7 +3460,7 @@ net/minecraft/src/ClsCsjFulkiet$a
 net/minecraft/src/ClsCskGcfqjdh
 net/minecraft/src/ClsCskGcfqjdh$a
 net/minecraft/src/ClsCslDxpiklx
-net/minecraft/src/ClsCsmFrzzjps
+net/minecraft/client/particle/ParticleManager
 net/minecraft/src/IfCsnEpnaidv
 net/minecraft/src/ClsCsoBxxggjz
 net/minecraft/src/ClsCsoBxxggjz$a
@@ -3865,7 +3865,7 @@ net/minecraft/src/ClsDdiBkgeunl$a
 net/minecraft/src/ClsDdiBkgeunl$b
 net/minecraft/src/ClsDdjFltvfeo
 net/minecraft/src/ClsDdkBupdqvw
-net/minecraft/src/ClsDdlQvwpdo
+net/minecraft/client/renderer/texture/TextureAtlasSprite
 net/minecraft/src/ClsDdmCbubrrr
 net/minecraft/src/IfDdnEzjqlcv
 net/minecraft/src/ClsDdoEucklgu
