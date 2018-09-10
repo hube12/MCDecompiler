@@ -2519,7 +2519,7 @@ net/minecraft/src/ClsBwpFzdfpys$b
 net/minecraft/src/ClsBwpFzdfpys$c
 net/minecraft/src/ClsBwpFzdfpys$d
 net/minecraft/src/ClsBwpFzdfpys$e
-net/minecraft/src/ClsBwqFemoyhm
+net/minecraft/world/gen/structure/StructureNetherBridgePieces
 net/minecraft/src/ClsBwqFemoyhm$1
 net/minecraft/src/ClsBwqFemoyhm$a
 net/minecraft/src/ClsBwqFemoyhm$b
@@ -2591,7 +2591,7 @@ net/minecraft/src/ClsBwwGswsvbr$n
 net/minecraft/src/ClsBwwGswsvbr$o
 net/minecraft/src/ClsBwwGswsvbr$p
 net/minecraft/src/ClsBwwGswsvbr$p$a
-net/minecraft/world/gen/structure/Structures
+net/minecraft/world/gen/structure/Structures/StructureVillagePieces
 net/minecraft/src/ClsBwyGcllixw
 net/minecraft/src/ClsBxaFvzomdy
 net/minecraft/src/ClsBxaFvzomdy$1
@@ -2602,7 +2602,7 @@ net/minecraft/src/ClsBxdDqdkoav
 net/minecraft/src/ClsBxdDqdkoav$1
 net/minecraft/src/ClsBxeBnzuadc
 net/minecraft/src/ClsBxfBjsasun
-net/minecraft/src/ClsBxgFswruyv
+net/minecraft/world/gen/structure
 net/minecraft/src/ClsBxgFswruyv$1
 net/minecraft/src/ClsBxgFswruyv$a
 net/minecraft/src/ClsBxgFswruyv$b
@@ -3557,7 +3557,7 @@ net/minecraft/src/IfCuaFwpsrwp
 net/minecraft/src/ClsCubCtbakxx
 net/minecraft/src/ClsCubCtbakxx$1
 net/minecraft/src/ClsCucEnaotzr
-net/minecraft/src/ClsCudBnoiyfs
+net/minecraft/client/renderer/RenderGlobal
 net/minecraft/src/ClsCudBnoiyfs$1
 net/minecraft/src/ClsCudBnoiyfs$a
 net/minecraft/src/ClsCueFlyutnj
