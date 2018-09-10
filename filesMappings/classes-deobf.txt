@@ -227,7 +227,7 @@ net/minecraft/server/command/ArgumentItemPredicate$a
 net/minecraft/server/command/ArgumentItemPredicate$b
 net/minecraft/server/command/ArgumentItemPredicate$c
 net/minecraft/src/ClsDrGhvwqem
-net/minecraft/src/ClsDsFvowids
+net/minecraft/command/CommandCompletor
 net/minecraft/src/ClsDtDglzbxw
 net/minecraft/src/ClsDtDglzbxw$1
 net/minecraft/src/ClsDtDglzbxw$a
