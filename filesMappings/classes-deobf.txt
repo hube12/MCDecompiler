@@ -662,7 +662,7 @@ net/minecraft/src/ClsQiBltuoky
 net/minecraft/src/ClsQjJshsvx
 net/minecraft/src/ClsQkGgcdaa
 net/minecraft/src/ClsQlGosbdmw
-net/minecraft/src/ClsQmEstihhr
+net/minecraft/command:CommandBase
 net/minecraft/src/ClsQmEstihhr$a
 net/minecraft/src/ClsQnFjrtnjr
 net/minecraft/src/ClsQnFjrtnjr$a
@@ -818,7 +818,7 @@ net/minecraft/src/ClsVoBamtwqv$3
 net/minecraft/src/ClsVoBamtwqv$4
 net/minecraft/src/ClsVoBamtwqv$5
 net/minecraft/src/ClsVoBamtwqv$a
-net/minecraft/src/ClsVpGygepdz
+net/minecraft/server/management/PlayerList
 net/minecraft/src/ClsVpGygepdz$1
 net/minecraft/src/ClsVqBtsfdro
 net/minecraft/src/ClsVrDgmcxhk
@@ -2512,7 +2512,7 @@ net/minecraft/src/ClsBwoCjlxxcs
 net/minecraft/src/ClsBwoCjlxxcs$a
 net/minecraft/src/ClsBwoCjlxxcs$b
 net/minecraft/src/ClsBwoCjlxxcs$c
-net/minecraft/src/ClsBwpFzdfpys
+net/minecraft/world\gen\structure\StructureMineshaftPieces
 net/minecraft/src/ClsBwpFzdfpys$1
 net/minecraft/src/ClsBwpFzdfpys$a
 net/minecraft/src/ClsBwpFzdfpys$b
@@ -2621,7 +2621,7 @@ net/minecraft/src/ClsBxgFswruyv$n
 net/minecraft/src/ClsBxgFswruyv$o
 net/minecraft/src/ClsBxgFswruyv$p
 net/minecraft/src/ClsBxgFswruyv$q
-net/minecraft/src/ClsBxhGxowzoe
+net/minecraft/world/gen/structure/WoodlandMansionPieces
 net/minecraft/src/ClsBxhGxowzoe$1
 net/minecraft/src/ClsBxhGxowzoe$a
 net/minecraft/src/ClsBxhGxowzoe$b
@@ -3523,7 +3523,7 @@ net/minecraft/src/EnumCtvByxnjcr$b
 net/minecraft/src/ClsCtwGuxwxog
 net/minecraft/client/render/EntityRenderer
 net/minecraft/src/ClsCtyBvohwrx
-net/minecraft/src/ClsCtzGrreiyq
+net/minecraft/client/renderer/GlStateManager
 net/minecraft/src/ClsCtzGrreiyq$1
 net/minecraft/src/ClsCtzGrreiyq$a
 net/minecraft/src/ClsCtzGrreiyq$b
@@ -3579,7 +3579,7 @@ net/minecraft/src/ClsCusCffscyn
 net/minecraft/src/ClsCutCvfyxel
 net/minecraft/src/ClsCutCvfyxel$1
 net/minecraft/src/ClsCuuFandqjb
-net/minecraft/src/ClsCuvFxyihxv
+net/minecraft/client/renderer/BlockModelRenderer
 net/minecraft/src/ClsCuvFxyihxv$1
 net/minecraft/src/ClsCuvFxyihxv$2
 net/minecraft/src/ClsCuvFxyihxv$a
@@ -3953,7 +3953,7 @@ net/minecraft/src/ClsDgiFmpnuod$a
 net/minecraft/src/ClsDgiFmpnuod$b
 net/minecraft/src/ClsDgjBgtnbhz
 net/minecraft/src/ClsDgnCvjhief
-net/minecraft/src/ClsDgoFogabho
+net/minecraft/client/audio/SoundHandler
 net/minecraft/src/ClsDgoFogabho$a
 net/minecraft/src/ClsDgpGevkkxb
 net/minecraft/src/ClsDgpGevkkxb$a
