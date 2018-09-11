@@ -3461,7 +3461,7 @@ net/minecraft/client/particle/ParticleNote
 net/minecraft/src/ClsCskGcfqjdh$a
 net/minecraft/client/particle/Particle
 net/minecraft/client/particle/ParticleManager
-net/minecraft/src/IfCsnEpnaidv
+net/minecraft/client/particle/IParticleFactory
 net/minecraft/client/particle/ParticleCloud
 net/minecraft/src/ClsCsoBxxggjz$a
 net/minecraft/client/particle/ParticlePortal
