@@ -3409,9 +3409,9 @@ net/minecraft/client/particle/ParticleBreaking
 net/minecraft/src/ClsCrpBxmhlfj$a
 net/minecraft/src/ClsCrpBxmhlfj$b
 net/minecraft/src/ClsCrpBxmhlfj$c
-net/minecraft/client/particle/ParticleBubble
+net/minecraft/client/particle/ParticleBubbleNew
 net/minecraft/src/ClsCrqCyultmj$a
-net/minecraft/client/particle/ParticleBubble2
+net/minecraft/client/particle/ParticleBubble
 net/minecraft/src/ClsCrrCyultmj$a
 net/minecraft/client/particle/Particle1
 net/minecraft/src/ClsCrsDmoqkkp$a
@@ -3476,7 +3476,7 @@ net/minecraft/src/ClsCssDmoczy$b
 net/minecraft/src/ClsCssDmoczy$c
 net/minecraft/src/ClsCssDmoczy$d
 net/minecraft/src/ClsCssDmoczy$e
-net/minecraft/src/ClsCstCyultmj
+net/minecraft/client/particle/ParticleSpit
 net/minecraft/src/ClsCstCyultmj$a
 net/minecraft/client/particle/UNKNOW4
 net/minecraft/src/ClsCsuGtuneaj$a
