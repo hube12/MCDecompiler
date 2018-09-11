@@ -2704,7 +2704,7 @@ net/minecraft/src/EnumBztDewwwtd
 net/minecraft/src/ClsBzuEvhuqei
 net/minecraft/src/EnumBzvGyldhkx
 net/minecraft/src/ClsBzwFuvwqxl
-net/minecraft/src/ClsBzxEuqbbjo
+net/minecraft/world/gen/layer/GenLayer
 net/minecraft/src/EnumBzyGrfeqzi
 net/minecraft/src/EnumBzzCqhrazf
 net/minecraft/src/EnumCaaFabacvy
@@ -3424,12 +3424,12 @@ net/minecraft/src/ClsCruBwohsmp$a
 net/minecraft/src/ClsCrvFvnpxna
 net/minecraft/src/ClsCrvFvnpxna$a
 net/minecraft/src/ClsCrvFvnpxna$b
-net/minecraft/src/ClsCrwCdhuhkp
+net/minecraft/client/particle/ParticleNote
 net/minecraft/src/ClsCrwCdhuhkp$a
-net/minecraft/src/ClsCrxGjyzepo
+net/minecraft/client/particle/UNKNOW1
 net/minecraft/src/ClsCrxGjyzepo$a
 net/minecraft/src/ClsCrxGjyzepo$b
-net/minecraft/src/ClsCryBfhzdgy
+net/minecraft/client/particle/ParticleEndRod
 net/minecraft/src/ClsCryBfhzdgy$a
 net/minecraft/client/particle/ParticleExplosion
 net/minecraft/src/ClsCrzCyultmj$a
@@ -3497,7 +3497,7 @@ net/minecraft/src/ClsCtbCyultmj
 net/minecraft/src/ClsCtbCyultmj$a
 net/minecraft/src/ClsCtcClpspkx
 net/minecraft/src/ClsCtcClpspkx$a
-net/minecraft/src/ClsCtdEobfyvp
+net/minecraft/client/particle/ParticleRain
 net/minecraft/src/ClsCtdEobfyvp$a
 net/minecraft/client/entity/AbstractPlayer
 net/minecraft/src/ClsCtgEsgfrar
