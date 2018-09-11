@@ -3424,7 +3424,7 @@ net/minecraft/src/ClsCruBwohsmp$a
 net/minecraft/src/ClsCrvFvnpxna
 net/minecraft/src/ClsCrvFvnpxna$a
 net/minecraft/src/ClsCrvFvnpxna$b
-net/minecraft/client/particle/ParticleNote
+net/minecraft/client/particle/ParticleRedstone
 net/minecraft/src/ClsCrwCdhuhkp$a
 net/minecraft/client/particle/UNKNOW1
 net/minecraft/src/ClsCrxGjyzepo$a
@@ -3433,7 +3433,7 @@ net/minecraft/client/particle/ParticleEndRod
 net/minecraft/src/ClsCryBfhzdgy$a
 net/minecraft/client/particle/ParticleExplosion
 net/minecraft/src/ClsCrzCyultmj$a
-net/minecraft/src/ClsCsaDzwezbv
+net/minecraft/client/particle/ParticleFallingDust
 net/minecraft/src/ClsCsaDzwezbv$a
 net/minecraft/client/particle/ParticleFirework
 net/minecraft/src/ClsCsbFnldhyq$1
