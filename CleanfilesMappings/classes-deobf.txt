@@ -1636,7 +1636,7 @@ net/minecraft/src/ClsBouBriynxk
 net/minecraft/src/ClsBovGpgvdaj
 net/minecraft/src/ClsBowBjxdqrf
 net/minecraft/src/ClsBoxDhqriih
-net/minecraft/src/ClsBoyEkqpltu
+net/minecraft/world/gen/RandomSeedSetter
 net/minecraft/src/ClsBozDqjjcxe
 net/minecraft/src/ClsBpaCorhvrs
 net/minecraft/src/ClsBpbDjeymfn
@@ -1672,7 +1672,7 @@ net/minecraft/src/ClsBqeBjafmzv
 net/minecraft/src/ClsBqfDebbgwq
 net/minecraft/src/ClsBqgBjafmzv
 net/minecraft/src/ClsBqhGpkwcdd
-net/minecraft/src/ClsBqiByexkra
+net/minecraft/world/gen/structure/MapGenEndCity
 net/minecraft/src/ClsBqjZilgcz
 net/minecraft/src/ClsBqkBjafmzv
 net/minecraft/src/ClsBqlBjafmzv
@@ -1716,7 +1716,7 @@ net/minecraft/src/ClsBrwEfqivxe
 net/minecraft/src/ClsBrxGpkwcdd
 net/minecraft/src/ClsBryGpkwcdd
 net/minecraft/src/ClsBrzGpkwcdd
-net/minecraft/src/ClsBsaBnrwlhi
+net/minecraft/world/gen/structure/StructureOceanMonument
 net/minecraft/src/ClsBsbCocjoow
 net/minecraft/src/ClsBscGqccsvn
 net/minecraft/src/ClsBsdEagzhuy
@@ -1822,7 +1822,7 @@ net/minecraft/src/ClsBwdBbosibl
 net/minecraft/src/ClsBweFrdhvny
 net/minecraft/src/ClsBwfDjmkjcq
 net/minecraft/src/ClsBwgBquqjbg
-net/minecraft/src/ClsBwhEksvjgp
+net/minecraft/world/gen/MapGenCaves
 net/minecraft/src/ClsBwiDregmjl
 net/minecraft/src/ClsBwjDhbboch
 net/minecraft/src/ClsBwkGbenqmy
@@ -1844,7 +1844,7 @@ net/minecraft/src/ClsBxaFvzomdy
 net/minecraft/src/ClsBxbGvrwiqk
 net/minecraft/src/ClsBxcGrdqfwo
 net/minecraft/src/ClsBxdDqdkoav
-net/minecraft/src/ClsBxeBnzuadc
+net/minecraft/world/gen/MapGenRavine
 net/minecraft/src/ClsBxfBjsasun
 net/minecraft/world/gen/structure
 net/minecraft/world/gen/structure/WoodlandMansionPieces
@@ -1991,7 +1991,7 @@ net/minecraft/src/ClsCdkGxjjds
 net/minecraft/src/ClsCdlDbjbrqw
 net/minecraft/src/ClsCdmFflshbu
 net/minecraft/src/ClsCdnDvomcbi
-net/minecraft/src/ClsCdoDeycptq
+net/minecraft/world/storage/loot/conditions/RandomChanceWithLooting
 net/minecraft/src/ClsCdqCxgtabp
 net/minecraft/src/IfCdrExmazzl
 net/minecraft/src/ClsCdsFflshbu
@@ -2298,7 +2298,7 @@ net/minecraft/client/network/NetHandlerPlayClient
 net/minecraft/src/ClsCrdBoccwsp
 net/minecraft/src/ClsCreFqraoki
 net/minecraft/client/multiplayer/WorldClient
-net/minecraft/src/ClsCrgBnekkye
+net/minecraft/client/network/NetworkPlayerInfo
 net/minecraft/src/ClsCrhBvwgwom
 net/minecraft/src/ClsCriBiyraji
 net/minecraft/src/ClsCrjBpdpytp
