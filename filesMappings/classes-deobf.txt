@@ -764,7 +764,7 @@ net/minecraft/src/ClsTvErzslzt
 net/minecraft/src/ClsTwErzslzt
 net/minecraft/src/ClsTxGxahfan
 net/minecraft/src/ClsTxGxahfan$1
-net/minecraft/src/ClsTzDnhwjxk
+net/minecraft/network/LegacyPingHandler
 net/minecraft/src/ClsUaCkcrjix
 net/minecraft/src/ClsUbCahxijj
 net/minecraft/src/ClsUbCahxijj$1
@@ -1188,8 +1188,8 @@ net/minecraft/src/ClsAipCditvcr
 net/minecraft/src/ClsAiqGuskyfb
 net/minecraft/src/ClsAirGuskyfb
 net/minecraft/src/ClsAisGlcoveu
-net/minecraft/src/ClsAiuBmnshll
-net/minecraft/src/ClsAivFnqmnzz
+net/minecraft/pathfinding/PathNavigateFlying
+net/minecraft/pathfinding/PathNavigateGround
 net/minecraft/src/ClsAiwEychlah
 net/minecraft/src/ClsAixEmzcueo
 net/minecraft/src/ClsAiyEhsllwv
@@ -1654,7 +1654,7 @@ net/minecraft/item/ClsAurZnjapv
 net/minecraft/potion/Potion
 net/minecraft/src/ClsAutFdrisbv
 net/minecraft/src/ClsAutFdrisbv$a
-net/minecraft/src/ClsAuuJddmhg
+net/minecraft/potion/PotionUtils
 net/minecraft/data/Potions
 net/minecraft/src/ClsAuyGdphhyl
 net/minecraft/src/ClsAuzGxkqtny
@@ -1674,7 +1674,7 @@ net/minecraft/src/ClsAviFiyhucf
 net/minecraft/src/IfAvjVulkxk
 net/minecraft/src/ClsAvkGsunolc
 net/minecraft/src/IfAvlDlqyjal
-net/minecraft/src/ClsAvmMcdlmp
+net/minecraft/item/crafting/CraftingManager
 net/minecraft/src/ClsAvmMcdlmp$a
 net/minecraft/src/ClsAvnGdphhyl
 net/minecraft/src/ClsAvoLajkir
@@ -3378,7 +3378,7 @@ net/minecraft/src/ClsCqpBvjwzu
 net/minecraft/src/ClsCqqDpsawso
 net/minecraft/src/ClsCqrBsddrgv
 net/minecraft/src/ClsCqtCohadzv
-net/minecraft/src/ClsCqvBbnqtmo
+net/minecraft/client/model/ModelRenderer
 net/minecraft/src/ClsCqwCzaeua
 net/minecraft/src/ClsCqzEwmrsyb
 net/minecraft/src/ClsCqzEwmrsyb$a
