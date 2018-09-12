@@ -228,7 +228,7 @@ net/minecraft/command/argument/ArgumentItemPredicate$b
 net/minecraft/command/argument/ArgumentItemPredicate$c
 net/minecraft/src/ClsDrGhvwqem
 net/minecraft/command/CommandCompletor
-net/minecraft/src/ClsDtDglzbxw
+net/minecraft/command/argumment/ARgumentEntityOptions
 net/minecraft/src/ClsDtDglzbxw$1
 net/minecraft/src/ClsDtDglzbxw$a
 net/minecraft/src/ClsDtDglzbxw$b
@@ -780,7 +780,7 @@ net/minecraft/src/ClsUfCpfxdkm
 net/minecraft/src/ClsUiFogvizb
 net/minecraft/src/ClsUjBzblkid
 net/minecraft/src/ClsUkBfkycxy
-net/minecraft/src/IfUlCfavjwd
+net/minecraft/client/resources/IResourcePack
 net/minecraft/src/EnumUmBpvzaqw
 net/minecraft/src/ClsUnGskvaeu
 net/minecraft/src/ClsUoBqfzcvf
@@ -798,7 +798,7 @@ net/minecraft/src/ClsVaDoxxqne$b
 net/minecraft/src/ClsVcGcumxtr
 net/minecraft/src/ClsVcGcumxtr$a
 net/minecraft/src/IfVdEycxkas
-net/minecraft/src/IfVeCjaekyv
+net/minecraft/client/resources/IResource
 net/minecraft/src/IfVfBwvhtg
 net/minecraft/src/IfVgCgdaxyt
 net/minecraft/src/ClsVhDdtxvgw
@@ -867,10 +867,10 @@ net/minecraft/src/ClsXdGnwdzye
 net/minecraft/src/ClsXePixcmb
 net/minecraft/src/ClsXgDybojpd
 net/minecraft/src/ClsXhCfkrooo
-net/minecraft/src/ClsXiEglipsr
+net/minecraft/util/FrameTimer
 net/minecraft/src/ClsXjJiktyr
 net/minecraft/src/ClsXkDgqoqdq
-net/minecraft/src/ClsXlBwesmxs
+net/minecraft/util/LowerStringMap
 net/minecraft/util/IntHashMap
 net/minecraft/util/IntHashMap$Entry
 net/minecraft/util/CachingSupplier
@@ -884,7 +884,7 @@ net/minecraft/src/ClsXtCkarhuq
 net/minecraft/src/ClsXtCkarhuq$1
 net/minecraft/src/ClsXuGuazhcy
 net/minecraft/src/IfXvDlhbgao
-net/minecraft/src/ClsXwDptikef
+net/minecraft/util/StringUtils
 net/minecraft/src/ClsXxDpjikbo
 net/minecraft/src/ClsXyDjqdnqc
 net/minecraft/src/ClsXyDjqdnqc$a
@@ -1082,11 +1082,11 @@ net/minecraft/src/ClsAeuBcgtqgm
 net/minecraft/src/ClsAeuBcgtqgm$a
 net/minecraft/data/EntityType
 net/minecraft/data/EntityType$Builder
-net/minecraft/src/EnumAewFfczfmp
+net/minecraft/inventory/EntityEquipmentSlot
 net/minecraft/src/EnumAewFfczfmp$a
 net/minecraft/entity/item/ExperienceOrb
 net/minecraft/entity/Flying
-net/minecraft/src/EnumAezDulnswq
+net/minecraft/util/EnumHandSide
 net/minecraft/entity/LivingBase
 net/minecraft/entity/LivingBase$1
 net/minecraft/entity/Living
@@ -1534,8 +1534,8 @@ net/minecraft/src/IfAqxCgdaxyt
 net/minecraft/item/ClsAqzGmxsiew
 net/minecraft/item/ClsAraDqhrwnd
 net/minecraft/item/ClsAraDqhrwnd$1
-net/minecraft/src/IfArbFhpatqb
-net/minecraft/src/EnumArcGfseicx
+net/minecraft/item/IItemAccessor
+net/minecraft/item/ItemArmorMaterial
 net/minecraft/item/ClsArdDjiwbdw
 net/minecraft/item/ClsAreBcblufb
 net/minecraft/item/ClsArfDmangbn
@@ -2261,7 +2261,7 @@ net/minecraft/src/EnumBofFyutgt$2
 net/minecraft/src/EnumBofFyutgt$3
 net/minecraft/src/EnumBofFyutgt$4
 net/minecraft/src/EnumBofFyutgt$5
-net/minecraft/src/ClsBogBqdbnvh
+net/minecraft/world/end/DragonFightManager
 net/minecraft/src/ClsBogBqdbnvh$1
 net/minecraft/src/ClsBogBqdbnvh$a
 net/minecraft/src/ClsBogBqdbnvh$b
@@ -3507,7 +3507,7 @@ net/minecraft/client/entity/ClsCtjFfhopkr
 net/minecraft/src/ClsCtkEnvsyuf
 net/minecraft/src/ClsCtlEfwfneq
 net/minecraft/src/ClsCtmFxdkdmz
-net/minecraft/src/ClsCtpGksiqsf
+net/minecraft/client/renderer/BufferBuilder
 net/minecraft/src/ClsCtpGksiqsf$1
 net/minecraft/src/ClsCtpGksiqsf$a
 net/minecraft/src/ClsCtqEbjbrjn
