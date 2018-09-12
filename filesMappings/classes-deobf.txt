@@ -2816,7 +2816,7 @@ net/minecraft/src/ClsCdkGxjjds
 net/minecraft/src/ClsCdkGxjjds$a
 net/minecraft/src/ClsCdlDbjbrqw
 net/minecraft/src/ClsCdlDbjbrqw$a
-net/minecraft/src/ClsCdmFflshbu
+net/minecraft/world/storage/loot/conditions/KilledByPlayer
 net/minecraft/src/ClsCdmFflshbu$a
 net/minecraft/src/ClsCdnDvomcbi
 net/minecraft/src/ClsCdnDvomcbi$a
@@ -3307,7 +3307,7 @@ net/minecraft/src/ClsCnyDzfqkwe
 net/minecraft/src/ClsCnzBprxtyw
 net/minecraft/src/ClsCoaEoebhyu
 net/minecraft/src/ClsCobGrsmrym
-net/minecraft/src/ClsCocBmtgohf
+net/minecraft/client/model/ModelBook
 net/minecraft/src/ClsCodGgteylf
 net/minecraft/src/ClsCoeGjjkzgy
 net/minecraft/src/ClsCofEemrmxe
@@ -3656,7 +3656,7 @@ net/minecraft/src/ClsCwhEuxkesf$1
 net/minecraft/src/ClsCwiWggdey
 net/minecraft/src/ClsCwjGxalawo
 net/minecraft/src/ClsCwjGxalawo$1
-net/minecraft/src/ClsCwkBulttpe
+net/minecraft/client/renderer/tileentity/TileEntityEndGatewayRenderer
 net/minecraft/client/renderer/tileentity/TileEntityEndPortalRenderer
 net/minecraft/src/ClsCwnEgzofuj
 net/minecraft/src/ClsCwnEgzofuj$a
@@ -3900,7 +3900,7 @@ net/minecraft/src/ClsDenDenyzuv
 net/minecraft/src/ClsDeoBlaezit
 net/minecraft/src/ClsDepEdnrpwj
 net/minecraft/src/ClsDerDnmsna
-net/minecraft/src/ClsDesEibjdsc
+net/minecraft/client/resources/data/LanguageMetadataSectionSerializer
 net/minecraft/src/ClsDevXfwjbl
 net/minecraft/src/ClsDewBsdnnwj
 net/minecraft/src/IfDeyCicuory
