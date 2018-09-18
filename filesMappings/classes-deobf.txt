@@ -2316,7 +2316,7 @@ net/minecraft/src/ClsBpxGbwlsqz
 net/minecraft/src/ClsBpyFefnrmq
 net/minecraft/src/ClsBpzChxcvwn
 net/minecraft/src/ClsBqaGpkwcdd
-net/minecraft/src/ClsBqbCodzezh
+net/minecraft/world/gen/structure/MapGenDesertPyramid
 net/minecraft/src/ClsBqbCodzezh$a
 net/minecraft/src/ClsBqcCvdnvvm
 net/minecraft/src/ClsBqdBlgueix
@@ -2369,7 +2369,7 @@ net/minecraft/src/ClsBrtEdxjive$a
 net/minecraft/src/ClsBrtEdxjive$b
 net/minecraft/src/ClsBruBbqmoqk
 net/minecraft/src/ClsBrvGpkwcdd
-net/minecraft/src/ClsBrwEfqivxe
+net/minecraft/world/gen/structure/MapGenFortress
 net/minecraft/src/ClsBrwEfqivxe$a
 net/minecraft/src/ClsBrxGpkwcdd
 net/minecraft/src/ClsBryGpkwcdd
@@ -2399,7 +2399,7 @@ net/minecraft/src/ClsBsuBjafmzv
 net/minecraft/src/ClsBsvBjafmzv
 net/minecraft/src/ClsBswFbmsxqt
 net/minecraft/src/ClsBsxCmxjtvw
-net/minecraft/src/ClsBsyDipzhdj
+net/minecraft/world/gen/structure/MapGenShipwreck
 net/minecraft/src/ClsBsyDipzhdj$a
 net/minecraft/src/ClsBszDysjhtz
 net/minecraft/src/ClsBtaBjafmzv
@@ -2562,7 +2562,7 @@ net/minecraft/world/gen/structure/OceanMonumentPieces$s
 net/minecraft/world/gen/structure/OceanMonumentPieces$t
 net/minecraft/world/gen/structure/OceanMonumentPieces$u
 net/minecraft/world/gen/structure/OceanMonumentPieces$v
-net/minecraft/src/ClsBwsFzlgarz
+net/minecraft/world/gen/structure/MapGenOceanRuin
 net/minecraft/src/ClsBwsFzlgarz$a
 net/minecraft/src/ClsBwsFzlgarz$b
 net/minecraft/src/ClsBwtBcabmrn
