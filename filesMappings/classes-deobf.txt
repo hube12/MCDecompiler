@@ -2495,7 +2495,7 @@ net/minecraft/src/ClsBwgBquqjbg
 net/minecraft/world/gen/MapGenCaves
 net/minecraft/src/ClsBwiDregmjl
 net/minecraft/src/ClsBwjDhbboch
-net/minecraft/src/ClsBwkGbenqmy
+net/minecraft/world/gen/structure/StructureEndCityPieces
 net/minecraft/src/ClsBwkGbenqmy$1
 net/minecraft/src/ClsBwkGbenqmy$2
 net/minecraft/src/ClsBwkGbenqmy$3
@@ -2602,7 +2602,7 @@ net/minecraft/src/ClsBxdDqdkoav
 net/minecraft/src/ClsBxdDqdkoav$1
 net/minecraft/world/gen/MapGenRavine
 net/minecraft/src/ClsBxfBjsasun
-net/minecraft/world/gen/structure
+net/minecraft/world/gen/structure/StructureVillagePieces
 net/minecraft/src/ClsBxgFswruyv$1
 net/minecraft/src/ClsBxgFswruyv$a
 net/minecraft/src/ClsBxgFswruyv$b
