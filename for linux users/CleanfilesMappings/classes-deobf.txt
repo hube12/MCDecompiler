@@ -714,7 +714,7 @@ net/minecraft/src/ClsAczCewiehg
 net/minecraft/client/gui/menu/world/Optimizer
 net/minecraft/world/BossInfo
 net/minecraft/src/ClsAddRpbegx
-net/minecraft/src/IfAdeBjqljrx
+net/minecraft/inventory/IInventory
 net/minecraft/inventory/ItemStackHelper
 net/minecraft/src/IfAdgCgdaxyt
 net/minecraft/src/ClsAdhBtfyfkq
@@ -726,7 +726,7 @@ net/minecraft/util/ActionResult
 net/minecraft/src/ClsAdnEolpzfz
 net/minecraft/src/ClsAdpBhhyjoo
 net/minecraft/src/IfAdqCbvstlg
-net/minecraft/src/IfAdrDzpwakj
+net/minecraft/world/IWorldNameable
 net/minecraft/src/IfAdsEmklyvh
 net/minecraft/src/ClsAdtNpeyum
 net/minecraft/profiler/Snooper
@@ -886,10 +886,10 @@ net/minecraft/entity/passive/SnowGolem
 net/minecraft/entity/water/Squid
 net/minecraft/entity/water/TropicalFish
 net/minecraft/entity/passive/Turtle
-net/minecraft/entity/ClsAkkOardpz
+net/minecraft/entity/passive/EntityWaterMob
 net/minecraft/entity/passive/Wolf
 net/minecraft/entity/passive/ChestedHorse
-net/minecraft/entity/ClsAknNjyrf
+net/minecraft/entity/passive/AbstractHorse
 net/minecraft/entity/passive/Donkey
 net/minecraft/entity/passive/Horse
 net/minecraft/entity/passive/HorseArmorType
@@ -969,10 +969,10 @@ net/minecraft/entity/monster/ZombieVillager
 net/minecraft/src/ClsAnyCsukkch
 net/minecraft/src/IfAnzDzwjdpq
 net/minecraft/entity/passive/Villager
-net/minecraft/src/ClsAodBkdeztv
-net/minecraft/src/ClsAoeCjrhpzk
-net/minecraft/entity/player/Player
-net/minecraft/src/EnumAogGxajuaw
+net/minecraft/entity/player/PlayerCapabilities
+net/minecraft/entity/player/InventoryPlayer
+net/minecraft/entity/player/EntityPlayer
+net/minecraft/entity/player/EnumPlayerModelParts
 net/minecraft/src/ClsAohGdacbig
 net/minecraft/entity/projectile/ArrowBase
 net/minecraft/entity/ClsAokNyduuq
@@ -1665,7 +1665,7 @@ net/minecraft/src/ClsBpxGbwlsqz
 net/minecraft/src/ClsBpyFefnrmq
 net/minecraft/src/ClsBpzChxcvwn
 net/minecraft/src/ClsBqaGpkwcdd
-net/minecraft/src/ClsBqbCodzezh
+net/minecraft/world/gen/structure/MapGenDesertPyramid
 net/minecraft/src/ClsBqcCvdnvvm
 net/minecraft/src/ClsBqdBlgueix
 net/minecraft/src/ClsBqeBjafmzv
@@ -1712,7 +1712,7 @@ net/minecraft/src/ClsBrsEsvasxt
 net/minecraft/src/ClsBrtEdxjive
 net/minecraft/src/ClsBruBbqmoqk
 net/minecraft/src/ClsBrvGpkwcdd
-net/minecraft/src/ClsBrwEfqivxe
+net/minecraft/world/gen/structure/MapGenFortress
 net/minecraft/src/ClsBrxGpkwcdd
 net/minecraft/src/ClsBryGpkwcdd
 net/minecraft/src/ClsBrzGpkwcdd
@@ -1740,7 +1740,7 @@ net/minecraft/src/ClsBsuBjafmzv
 net/minecraft/src/ClsBsvBjafmzv
 net/minecraft/src/ClsBswFbmsxqt
 net/minecraft/src/ClsBsxCmxjtvw
-net/minecraft/src/ClsBsyDipzhdj
+net/minecraft/world/gen/structure/MapGenShipwreck
 net/minecraft/src/ClsBszDysjhtz
 net/minecraft/src/ClsBtaBjafmzv
 net/minecraft/src/ClsBtbFxiavss
@@ -1833,7 +1833,7 @@ net/minecraft/src/ClsBwoCjlxxcs
 net/minecraft/world/gen/structure/StructureMineshaftPieces
 net/minecraft/world/gen/structure/StructureNetherBridgePieces
 net/minecraft/world/gen/structure/OceanMonumentPieces
-net/minecraft/src/ClsBwsFzlgarz
+net/minecraft/world/gen/structure/MapGenOceanRuin
 net/minecraft/src/ClsBwtBcabmrn
 net/minecraft/src/ClsBwuBfgydld
 net/minecraft/src/ClsBwvGgjckcc
@@ -1853,7 +1853,7 @@ net/minecraft/src/ClsBxkCycunae
 net/minecraft/src/ClsBxlNfmxlx
 net/minecraft/src/ClsBxmHjjbnw
 net/minecraft/src/IfBxnCktznjt
-net/minecraft/src/ClsBxoEyxpumv
+net/minecraft/world/gen/structure/template/Template
 net/minecraft/src/ClsBxqFzvscry
 net/minecraft/src/ClsBxrDxicnys
 net/minecraft/src/ClsBxsDsgevwv
@@ -2362,8 +2362,8 @@ net/minecraft/src/ClsCttEvqxjpe
 net/minecraft/src/ClsCtuFhlurab
 net/minecraft/src/EnumCtvByxnjcr
 net/minecraft/src/ClsCtwGuxwxog
-net/minecraft/client/render/EntityRenderer
-net/minecraft/src/ClsCtyBvohwrx
+net/minecraft/client/renderer/EntityRenderer
+net/minecraft/client/renderer/GlRegister
 net/minecraft/client/renderer/GlStateManager
 net/minecraft/client/renderer/IImageBuffer
 net/minecraft/client/renderer/ItemRenderer
@@ -2612,7 +2612,7 @@ net/minecraft/src/ClsDebCxlwcsl
 net/minecraft/src/ClsDecGfqktiu
 net/minecraft/src/ClsDedBbbrzbh
 net/minecraft/src/ClsDeeEfpbdbi
-net/minecraft/src/ClsDefGyjjojg
+net/minecraft/client/ressources/RessourcePackTextures
 net/minecraft/src/ClsDegCvakggg
 net/minecraft/src/ClsDehFaiqcpw
 net/minecraft/client/resources/I18n
@@ -2666,7 +2666,7 @@ net/minecraft/src/ClsDgpGevkkxb
 net/minecraft/sound/SoundSystem
 net/minecraft/src/IfDgrBhhxsle
 net/minecraft/src/ClsDgsCcfyyal
-net/minecraft/src/ClsDgtBjofgyb
+net/minecraft/client/audio/SoundSelectionLoader
 net/minecraft/src/ClsDguCznxkvp
 net/minecraft/src/IfDgvGljuueg
 net/minecraft/src/ClsDgxDebbgxv
